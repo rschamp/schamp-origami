@@ -1,0 +1,5760 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_07" class="java.beans.XMLDecoder"> 
+ <object class="oripa.DataSet"> 
+  <void property="lines"> 
+   <array class="oripa.OriLineProxy" length="342"> 
+    <void index="0"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x1"> 
+       <double>-39.78247347593158</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-200.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="1"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-200.00000000000006</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-184.77590650225739</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-82.84271247461905</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-76.53668647301797</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="2"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-200.00000000000006</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-169.55181300451468</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-133.63572758385976</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-113.29089947010421</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="3"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-141.4213562373095</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-141.42135623730945</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="4"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-133.63572758385976</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-113.2908994701042</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-169.55181300451463</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="5"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-82.84271247461899</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-76.53668647301794</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-184.77590650225739</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="6"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-200.00000000000006</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-184.77590650225739</double> 
+      </void> 
+      <void property="y0"> 
+       <double>82.84271247461905</double> 
+      </void> 
+      <void property="y1"> 
+       <double>76.53668647301797</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="7"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-200.00000000000006</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-169.55181300451468</double> 
+      </void> 
+      <void property="y0"> 
+       <double>133.63572758385976</double> 
+      </void> 
+      <void property="y1"> 
+       <double>113.29089947010421</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="8"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-141.4213562373095</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>141.42135623730945</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="9"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-133.63572758385976</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-113.29089947010421</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>169.55181300451463</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="10"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-82.84271247461899</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-76.53668647301795</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>184.77590650225739</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="11"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>200.00000000000006</double> 
+      </void> 
+      <void property="x1"> 
+       <double>184.77590650225739</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-82.84271247461905</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-76.53668647301797</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="12"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>200.00000000000006</double> 
+      </void> 
+      <void property="x1"> 
+       <double>169.55181300451468</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-133.63572758385976</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-113.29089947010421</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="13"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>184.77590650225736</double> 
+      </void> 
+      <void property="y0"> 
+       <double>82.84271247461903</double> 
+      </void> 
+      <void property="y1"> 
+       <double>76.536686473018</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="14"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>169.55181300451468</double> 
+      </void> 
+      <void property="y0"> 
+       <double>133.63572758385973</double> 
+      </void> 
+      <void property="y1"> 
+       <double>113.29089947010421</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="15"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>133.63572758385976</double> 
+      </void> 
+      <void property="x1"> 
+       <double>113.2908994701042</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>169.55181300451463</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="16"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>76.53668647301794</double> 
+      </void> 
+      <void property="x1"> 
+       <double>113.2908994701042</double> 
+      </void> 
+      <void property="y0"> 
+       <double>184.77590650225739</double> 
+      </void> 
+      <void property="y1"> 
+       <double>169.55181300451463</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="17"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>82.84271247461899</double> 
+      </void> 
+      <void property="x1"> 
+       <double>76.53668647301794</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>184.77590650225739</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="18"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>133.63572758385976</double> 
+      </void> 
+      <void property="x1"> 
+       <double>113.29089947010428</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-169.5518130045147</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="19"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>82.84271247461899</double> 
+      </void> 
+      <void property="x1"> 
+       <double>76.53668647301795</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-184.77590650225739</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="20"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-4.440892098501096E-14</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-124.99999999999999</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="21"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>4.18579947770257E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-125.0</double> 
+      </void> 
+      <void property="y0"> 
+       <double>6.960580953130631E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-24.864045922457276</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="22"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>4.1104119397704736E-14</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-124.99999999999999</double> 
+      </void> 
+      <void property="y0"> 
+       <double>2.2151673671029428E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>24.864045922457276</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="23"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-125.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-125.0</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-25.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>25.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="24"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-82.84271247461899</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-66.96437203658571</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-200.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="25"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-39.78247347593158</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-66.96437203658571</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-200.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="26"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-76.53668647301794</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-74.6182227978259</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-184.77590650225739</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-185.57056017544204</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="27"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-39.78247347593157</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-74.6182227978259</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-199.99999999999994</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-185.57056017544204</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="28"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-197.43613469148477</double> 
+      </void> 
+      <void property="y0"> 
+       <double>39.78247347593164</double> 
+      </void> 
+      <void property="y1"> 
+       <double>45.97219187584702</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="29"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-184.77590650225739</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-197.43613469148477</double> 
+      </void> 
+      <void property="y0"> 
+       <double>76.53668647301797</double> 
+      </void> 
+      <void property="y1"> 
+       <double>45.97219187584702</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="30"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-125.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-156.53500927786683</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-24.864045922457276</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-31.13674927325725</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="31"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-193.21221122983843</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="32"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-133.63572758385973</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-193.21221122983843</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="33"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-114.56191678800678</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="34"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>141.4213562373095</double> 
+      </void> 
+      <void property="x1"> 
+       <double>120.78278691483007</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-141.42135623730945</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-162.05992555978878</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="35"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>113.29089947010398</double> 
+      </void> 
+      <void property="x1"> 
+       <double>120.78278691483007</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-169.55181300451483</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-162.05992555978878</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="36"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-3.3637170897485803E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-141.8784862273028</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-5.1879530499738914E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-58.76799320431317</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="37"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-184.77590650225739</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-141.8784862273028</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-76.53668647301797</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-58.76799320431317</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="38"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-4.667579075896987E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-107.9316628526228</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-8.48898807768652E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-72.11763147323035</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="39"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-82.84271247461903</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-62.735999712771445</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="40"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-39.78247347593164</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-62.735999712771445</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="41"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-184.77590650225739</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-179.63285384636288</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-76.53668647301797</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-88.95311394687731</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="42"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-169.55181300451468</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-179.63285384636288</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-113.29089947010421</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-88.95311394687731</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="43"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>184.77590650225739</double> 
+      </void> 
+      <void property="x1"> 
+       <double>190.21236046957324</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-76.53668647301797</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-63.411925573907</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="44"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>190.21236046957324</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-39.78247347593164</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-63.411925573907</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="45"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-169.55181300451468</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-127.76720567402425</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-113.29089947010421</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-85.37131745802432</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="46"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-107.9316628526228</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-127.76720567402427</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-72.11763147323035</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-85.37131745802434</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="47"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-1.9984014443254373E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-82.22630233890523</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-1.5550026163716585E-26</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-82.22630233890511</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="48"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>2.8555953616633725E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-53.62194390901207</double> 
+      </void> 
+      <void property="y0"> 
+       <double>8.881784196998955E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-80.25091025955331</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="49"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-141.87848622727074</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-127.7672056740132</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-58.76799320432579</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-85.37131745802355</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="50"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-141.87848622727074</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-82.22630233893088</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-58.76799320432579</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-82.22630233890686</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="51"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>20.323413534380965</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="52"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-141.4213562373095</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-152.8297381588465</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-141.42135623730945</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-130.01297431577242</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="53"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-169.55181300451468</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-152.8297381588465</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-113.29089947010421</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-130.01297431577242</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="54"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-141.4213562373095</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-113.07320886980338</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-141.42135623730945</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-113.0732088698033</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="55"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-1.3200344509128075E-14</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-14.103577672155234</double> 
+      </void> 
+      <void property="y0"> 
+       <double>2.220446049249793E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-70.90347301149033</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="56"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-82.2263023389052</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-113.07320886980338</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-82.22630233890509</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-113.0732088698033</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="57"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-53.62194390901207</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-60.61934979741724</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-80.25091025955331</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-90.72326823584991</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="58"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>1.103686641740624E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-32.64084634606349</double> 
+      </void> 
+      <void property="y0"> 
+       <double>6.661338147749437E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-78.8019739360029</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="59"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-127.7672056740132</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-113.07320886973264</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-85.37131745802355</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-113.07320886977314</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="60"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-82.22630233893088</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-60.61934979736918</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-82.22630233890686</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-90.72326823582942</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="61"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-82.22630233893088</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-32.64084634596285</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-82.22630233890686</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-78.80197393596</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="62"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-141.4213562373095</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-119.49510479938516</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-141.42135623730945</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-163.3476076752337</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="63"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-113.2908994701042</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-119.49510479938516</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-169.55181300451463</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-163.3476076752337</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="64"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>184.77590650225739</double> 
+      </void> 
+      <void property="x1"> 
+       <double>181.43806377076055</double> 
+      </void> 
+      <void property="y0"> 
+       <double>76.53668647301797</double> 
+      </void> 
+      <void property="y1"> 
+       <double>84.59495166446597</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="65"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>169.55181300451468</double> 
+      </void> 
+      <void property="x1"> 
+       <double>181.43806377076055</double> 
+      </void> 
+      <void property="y0"> 
+       <double>113.29089947010421</double> 
+      </void> 
+      <void property="y1"> 
+       <double>84.59495166446597</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="66"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-113.2908994701042</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-96.46908003625808</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-169.55181300451463</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-144.37618110130228</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="67"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-60.61934979741723</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-96.46908003625809</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-90.7232682358499</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-144.3761811013023</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="68"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="y0"> 
+       <double>-4.493351716138883E-27</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-64.89411298968827</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="69"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-14.103577672155234</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-15.438381840295893</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-70.90347301149033</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-77.61398672023807</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="70"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>1.0504319050755353E-14</double> 
+      </void> 
+      <void property="x1"> 
+       <double>11.090637447825092</double> 
+      </void> 
+      <void property="y0"> 
+       <double>4.440892098500101E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-55.75639963430089</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="71"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-32.64084634606349</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-40.80617759326853</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-78.8019739360029</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-98.51482737427412</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="72"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-113.07320886973264</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-96.46908003618374</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-113.07320886977314</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-144.37618110124103</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="73"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-60.61934979736918</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-40.80617759322863</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-90.72326823582942</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-98.51482737424126</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="74"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-32.64084634596285</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-15.438381840241114</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-78.80197393596</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-77.61398672019291</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="75"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-32.64084634596286</double> 
+      </void> 
+      <void property="x1"> 
+       <double>8.79651906871004E-12</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-78.80197393596</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-64.89411298968103</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="76"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>199.99999999999955</double> 
+      </void> 
+      <void property="x1"> 
+       <double>196.77287426055406</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>200.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="77"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-113.2908994701042</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-76.90058806538879</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-169.55181300451463</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-184.6251735273282</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="78"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>169.55181300451468</double> 
+      </void> 
+      <void property="x1"> 
+       <double>149.40886628429973</double> 
+      </void> 
+      <void property="y0"> 
+       <double>113.29089947010421</double> 
+      </void> 
+      <void property="y1"> 
+       <double>133.43384619031923</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="79"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>141.4213562373095</double> 
+      </void> 
+      <void property="x1"> 
+       <double>149.40886628429973</double> 
+      </void> 
+      <void property="y0"> 
+       <double>141.42135623730945</double> 
+      </void> 
+      <void property="y1"> 
+       <double>133.43384619031923</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="80"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-76.53668647301794</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-75.88029461300052</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-184.77590650225739</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-183.19123637157202</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="81"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-39.78247347593157</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-21.134580628191568</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-199.99999999999994</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-106.25071184162539</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="82"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="y0"> 
+       <double>-114.56191678800678</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-76.54782551695847</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="83"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>15.01998395478906</double> 
+      </void> 
+      <void property="x1"> 
+       <double>11.899693808192351</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-75.51055850700762</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-59.82380062613082</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="84"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-40.80617759326852</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-75.88029461300049</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-98.5148273742741</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-183.19123637157196</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="85"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-15.438381840295891</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-21.13458062819157</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-77.61398672023805</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-106.25071184162542</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="86"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-1.6083175966357015E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>31.823107783892638</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-5.744696876193236E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-31.823107783892834</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="87"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="y0"> 
+       <double>-64.89411298968825</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-76.54782551695847</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="88"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>11.090637447825092</double> 
+      </void> 
+      <void property="x1"> 
+       <double>11.899693808192358</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-55.75639963430089</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-59.82380062613085</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="89"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-1.9689272686634457E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>26.377408957653365</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-4.440892098502136E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-39.4765822502086</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="90"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>27.96535487030414</double> 
+      </void> 
+      <void property="x1"> 
+       <double>26.377408957653365</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-41.85311125388286</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-39.4765822502086</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="91"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-6.260536392879974E-14</double> 
+      </void> 
+      <void property="x1"> 
+       <double>20.04063906023788</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-4.44089209850205E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-48.382382617850425</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="92"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>22.847616690818914</double> 
+      </void> 
+      <void property="x1"> 
+       <double>20.040639060237883</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-55.15902608287704</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-48.382382617850425</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="93"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-66.9643720365857</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-75.88029461284786</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-183.19123637135746</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="94"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-96.46908003618374</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-75.88029461284786</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-144.37618110124103</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-183.19123637135746</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="95"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-40.80617759322863</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-21.13458062809255</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-98.51482737424126</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-106.25071184148624</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="96"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-15.438381840241114</double> 
+      </void> 
+      <void property="x1"> 
+       <double>1.0088463398005842E-10</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-77.61398672019291</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-76.54782551681669</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="97"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>8.79651906871004E-12</double> 
+      </void> 
+      <void property="x1"> 
+       <double>11.899693808279634</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-64.89411298968103</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-59.82380062600813</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="98"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>8.707701226740031E-12</double> 
+      </void> 
+      <void property="x1"> 
+       <double>20.04063906038349</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-64.89411298968108</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-48.38238261764583</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="99"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-39.78247347593164</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="100"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-82.84271247461903</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-133.63572758385973</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="101"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-133.63572758385973</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="102"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-133.63572758385973</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-200.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="103"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-82.84271247461899</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-133.63572758385973</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-200.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="104"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>39.78247347593143</double> 
+      </void> 
+      <void property="x1"> 
+       <double>63.22762395766988</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>190.2887006985859</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="105"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>76.53668647301794</double> 
+      </void> 
+      <void property="x1"> 
+       <double>63.22762395766988</double> 
+      </void> 
+      <void property="y0"> 
+       <double>184.77590650225739</double> 
+      </void> 
+      <void property="y1"> 
+       <double>190.2887006985859</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="106"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>39.78247347593157</double> 
+      </void> 
+      <void property="x1"> 
+       <double>24.721566853207165</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-199.99999999999994</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-124.28370934835775</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="107"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>15.01998395478906</double> 
+      </void> 
+      <void property="x1"> 
+       <double>24.721566853207165</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-75.51055850700762</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-124.28370934835775</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="108"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>22.847616690818914</double> 
+      </void> 
+      <void property="x1"> 
+       <double>30.82538046753514</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-55.15902608287704</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-74.41905159003414</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="109"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>27.96535487030414</double> 
+      </void> 
+      <void property="x1"> 
+       <double>33.75167000041579</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-41.85311125388286</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-50.512943822206445</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="110"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>196.77287426055406</double> 
+      </void> 
+      <void property="x1"> 
+       <double>64.4163609019015</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>200.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="111"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-8.881784197001076E-14</double> 
+      </void> 
+      <void property="x1"> 
+       <double>38.98560220836461</double> 
+      </void> 
+      <void property="y0"> 
+       <double>4.030627284575365E-15</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-7.7547184289874425</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="112"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>1.4690687028736054E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>38.00773658129169</double> 
+      </void> 
+      <void property="y0"> 
+       <double>2.6746363278951867E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-15.743319967074964</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="113"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>2.1443152988435725E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>36.91551336575406</double> 
+      </void> 
+      <void property="y0"> 
+       <double>8.39714388462627E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-24.666157438821024</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="114"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>31.823107783892638</double> 
+      </void> 
+      <void property="x1"> 
+       <double>35.57962221775857</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-31.823107783892834</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-35.57962221775876</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="115"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-21.13458062809255</double> 
+      </void> 
+      <void property="x1"> 
+       <double>24.721566853208337</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-106.25071184148624</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-124.28370934834808</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="116"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>1.0088463398005842E-10</double> 
+      </void> 
+      <void property="x1"> 
+       <double>30.825380467537205</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-76.54782551681669</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-74.41905159001736</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="117"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>11.899693808279634</double> 
+      </void> 
+      <void property="x1"> 
+       <double>33.7516700004134</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-59.82380062600813</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-50.51294382222606</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="118"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>20.04063906038349</double> 
+      </void> 
+      <void property="x1"> 
+       <double>35.57962221775573</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-48.38238261764583</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-35.57962221778217</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="119"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>20.040639060383448</double> 
+      </void> 
+      <void property="x1"> 
+       <double>36.91551336573478</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-48.38238261764587</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-24.666157438978466</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="120"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>39.78247347593157</double> 
+      </void> 
+      <void property="x1"> 
+       <double>63.22762395765603</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-199.99999999999994</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-190.28870069859164</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="121"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>76.53668647301794</double> 
+      </void> 
+      <void property="x1"> 
+       <double>63.22762395765603</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-184.77590650225739</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-190.28870069859164</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="122"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>76.53668647301795</double> 
+      </void> 
+      <void property="x1"> 
+       <double>56.686821264750286</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-184.77590650225736</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-136.85409270517974</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="123"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>30.825380467535144</double> 
+      </void> 
+      <void property="x1"> 
+       <double>56.68682126475029</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-74.41905159003414</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-136.85409270517974</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="124"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>33.7516700004158</double> 
+      </void> 
+      <void property="x1"> 
+       <double>48.891576941722185</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-50.51294382220646</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-73.17141579678481</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="125"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>35.57962221775857</double> 
+      </void> 
+      <void property="x1"> 
+       <double>45.50499668130566</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-35.57962221775876</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-45.50499668130584</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="126"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x1"> 
+       <double>15.453316623825232</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>200.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="127"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>64.4163609019015</double> 
+      </void> 
+      <void property="x1"> 
+       <double>15.453316623825232</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>200.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="128"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>4.69691874317772E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>38.98560220835039</double> 
+      </void> 
+      <void property="y0"> 
+       <double>1.087537012439142E-13</double> 
+      </void> 
+      <void property="y1"> 
+       <double>7.754718428984622</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="129"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-8.505196547047888E-14</double> 
+      </void> 
+      <void property="x1"> 
+       <double>39.93483876285608</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="130"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>38.98560220836461</double> 
+      </void> 
+      <void property="x1"> 
+       <double>40.931453662843566</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-7.7547184289874425</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-8.141772348367002</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="131"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>38.00773658129169</double> 
+      </void> 
+      <void property="x1"> 
+       <double>42.06779779146776</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-15.743319967074964</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-17.425052384394817</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="132"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>36.91551336575406</double> 
+      </void> 
+      <void property="x1"> 
+       <double>43.492060979643746</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-24.666157438821024</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-29.06046606568126</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="133"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>24.721566853208337</double> 
+      </void> 
+      <void property="x1"> 
+       <double>56.68682126475636</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-124.28370934834808</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-136.85409270522965</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="134"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>30.825380467537205</double> 
+      </void> 
+      <void property="x1"> 
+       <double>48.89157694172416</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-74.41905159001736</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-73.1714157968011</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="135"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>33.7516700004134</double> 
+      </void> 
+      <void property="x1"> 
+       <double>45.50499668131094</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-50.51294382222606</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-45.504996681349084</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="136"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>35.57962221775573</double> 
+      </void> 
+      <void property="x1"> 
+       <double>43.492060979648926</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-35.57962221778217</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-29.06046606572393</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="137"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>36.91551336573478</double> 
+      </void> 
+      <void property="x1"> 
+       <double>42.06779779148458</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-24.666157438978466</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-17.4250523845323</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="138"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>36.915513365734746</double> 
+      </void> 
+      <void property="x1"> 
+       <double>39.93483876286336</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-24.666157438978516</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-5.933387114964717E-11</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="139"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x1"> 
+       <double>-32.861306122504175</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>200.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="140"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>76.53668647301804</double> 
+      </void> 
+      <void property="x1"> 
+       <double>109.8278994762509</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-184.77590650225736</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-170.98623456846673</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="141"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>113.29089947010435</double> 
+      </void> 
+      <void property="x1"> 
+       <double>109.8278994762509</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-169.55181300451468</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-170.98623456846673</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="142"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>113.29089947010426</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.83058078351625</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-169.5518130045147</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-155.3934455415151</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="143"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>141.42135623730942</double> 
+      </void> 
+      <void property="x1"> 
+       <double>71.60298568988497</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-141.4213562373095</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-71.60298568988513</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="144"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>48.89157694172217</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.83058078351623</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-73.17141579678479</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-155.39344554151506</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="145"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>45.50499668130566</double> 
+      </void> 
+      <void property="x1"> 
+       <double>71.60298568988495</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-45.50499668130584</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-71.6029856898851</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="146"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>43.49206097964374</double> 
+      </void> 
+      <void property="x1"> 
+       <double>59.30376795557905</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-29.06046606568126</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-39.625510896040794</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="147"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>42.06779779146776</double> 
+      </void> 
+      <void property="x1"> 
+       <double>52.413176584274545</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-17.425052384394817</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-21.71024858826239</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="148"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>5.155145000052064E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>35.05417842336983</double> 
+      </void> 
+      <void property="y0"> 
+       <double>1.1786838819895372E-13</double> 
+      </void> 
+      <void property="y1"> 
+       <double>23.422453192307128</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="149"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>38.98560220835039</double> 
+      </void> 
+      <void property="x1"> 
+       <double>40.931453662881324</double> 
+      </void> 
+      <void property="y0"> 
+       <double>7.754718428984622</double> 
+      </void> 
+      <void property="y1"> 
+       <double>8.141772348374518</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="150"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>5.021782381673974E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>38.00773658131255</double> 
+      </void> 
+      <void property="y0"> 
+       <double>1.2114650771747525E-13</double> 
+      </void> 
+      <void property="y1"> 
+       <double>15.743319967083611</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="151"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>39.93483876285609</double> 
+      </void> 
+      <void property="x1"> 
+       <double>44.062952679028975</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="152"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>40.931453662843566</double> 
+      </void> 
+      <void property="x1"> 
+       <double>47.71330343348053</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-8.141772348367002</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-9.490766141457593</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="153"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>56.68682126475636</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.83058078348967</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-136.85409270522965</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-155.39344554144603</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="154"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>48.89157694172416</double> 
+      </void> 
+      <void property="x1"> 
+       <double>71.6029856898643</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-73.1714157968011</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-71.6029856898314</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="155"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>45.50499668131094</double> 
+      </void> 
+      <void property="x1"> 
+       <double>59.3037679555744</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-45.504996681349084</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-39.62551089602877</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="156"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>43.492060979648926</double> 
+      </void> 
+      <void property="x1"> 
+       <double>52.41317658427061</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-29.06046606572393</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-21.7102485882522</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="157"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>42.06779779148458</double> 
+      </void> 
+      <void property="x1"> 
+       <double>47.713303433503484</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-17.4250523845323</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-9.490766141517232</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="158"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>39.93483876286336</double> 
+      </void> 
+      <void property="x1"> 
+       <double>40.931453662864406</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-5.933387114964717E-11</double> 
+      </void> 
+      <void property="y1"> 
+       <double>8.141772348418545</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="159"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>39.93483876286336</double> 
+      </void> 
+      <void property="x1"> 
+       <double>38.007736581259046</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-5.935304060478957E-11</double> 
+      </void> 
+      <void property="y1"> 
+       <double>15.743319967222691</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="160"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>196.77287426043765</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-199.99999999999997</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="161"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>133.63572758385976</double> 
+      </void> 
+      <void property="x1"> 
+       <double>196.77287426043765</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-199.99999999999997</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="162"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-113.2908994701042</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-76.90058806539221</double> 
+      </void> 
+      <void property="y0"> 
+       <double>169.55181300451463</double> 
+      </void> 
+      <void property="y1"> 
+       <double>184.6251735273268</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="163"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>141.4213562373095</double> 
+      </void> 
+      <void property="x1"> 
+       <double>149.40886628424303</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-141.42135623730945</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-133.43384619037593</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="164"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>169.55181300451468</double> 
+      </void> 
+      <void property="x1"> 
+       <double>149.40886628424303</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-113.29089947010421</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-133.43384619037593</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="165"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>188.812846740872</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-188.81284674087203</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="166"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>141.42135623730945</double> 
+      </void> 
+      <void property="x1"> 
+       <double>188.81284674087192</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-141.42135623730954</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-188.81284674087195</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="167"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>169.55181300451468</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.83058078351544</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-113.29089947010421</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-69.37737604229895</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="168"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>59.30376795557901</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.83058078351546</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-39.62551089604078</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-69.37737604229895</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="169"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>52.413176584274545</double> 
+      </void> 
+      <void property="x1"> 
+       <double>77.22720540723635</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-21.71024858826239</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-31.98855586385007</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="170"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>47.713303433480526</double> 
+      </void> 
+      <void property="x1"> 
+       <double>63.445975428995204</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-9.490766141457591</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-12.620189173293067</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="171"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>40.93145366288133</double> 
+      </void> 
+      <void property="x1"> 
+       <double>47.7133034334892</double> 
+      </void> 
+      <void property="y0"> 
+       <double>8.14177234837452</double> 
+      </void> 
+      <void property="y1"> 
+       <double>9.490766141459323</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="172"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-2.331347842697991E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>31.82310778386403</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-1.7671946009723315E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>31.823107783864206</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="173"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-2.470107902062689E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>26.37740895763074</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-3.316592581964735E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>39.47658225017475</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="174"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>35.05417842336983</double> 
+      </void> 
+      <void property="x1"> 
+       <double>36.91551336578231</double> 
+      </void> 
+      <void property="y0"> 
+       <double>23.422453192307128</double> 
+      </void> 
+      <void property="y1"> 
+       <double>24.666157438839903</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="175"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>38.00773658131255</double> 
+      </void> 
+      <void property="x1"> 
+       <double>42.06779779151525</double> 
+      </void> 
+      <void property="y0"> 
+       <double>15.743319967083611</double> 
+      </void> 
+      <void property="y1"> 
+       <double>17.42505238441449</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="176"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>44.062952679028975</double> 
+      </void> 
+      <void property="x1"> 
+       <double>54.46629572007804</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="177"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>188.812846740857</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-193.21221122983843</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-188.81284674085094</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="178"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>103.83058078348967</double> 
+      </void> 
+      <void property="x1"> 
+       <double>188.812846740857</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-155.39344554144603</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-188.81284674085094</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="179"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>71.6029856898643</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.83058078347969</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-71.6029856898314</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-69.37737604224868</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="180"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>59.3037679555744</double> 
+      </void> 
+      <void property="x1"> 
+       <double>77.22720540722626</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-39.62551089602877</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-31.98855586383589</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="181"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>52.41317658427061</double> 
+      </void> 
+      <void property="x1"> 
+       <double>63.445975428985406</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-21.7102485882522</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-12.62018917327934</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="182"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>47.713303433503484</double> 
+      </void> 
+      <void property="x1"> 
+       <double>54.466295720107176</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-9.490766141517232</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-4.091127436822717E-11</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="183"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>40.931453662864406</double> 
+      </void> 
+      <void property="x1"> 
+       <double>42.06779779148918</double> 
+      </void> 
+      <void property="y0"> 
+       <double>8.141772348418545</double> 
+      </void> 
+      <void property="y1"> 
+       <double>17.425052384451092</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="184"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>38.007736581259046</double> 
+      </void> 
+      <void property="x1"> 
+       <double>36.91551336572782</double> 
+      </void> 
+      <void property="y0"> 
+       <double>15.743319967222691</double> 
+      </void> 
+      <void property="y1"> 
+       <double>24.66615743891648</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="185"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>38.007736581259046</double> 
+      </void> 
+      <void property="x1"> 
+       <double>31.82310778384152</double> 
+      </void> 
+      <void property="y0"> 
+       <double>15.743319967222691</double> 
+      </void> 
+      <void property="y1"> 
+       <double>31.823107783895843</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="186"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>196.77287426043767</double> 
+      </void> 
+      <void property="x1"> 
+       <double>188.812846740857</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-188.81284674085094</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="187"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-141.4213562373095</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-119.49510479938516</double> 
+      </void> 
+      <void property="y0"> 
+       <double>141.42135623730945</double> 
+      </void> 
+      <void property="y1"> 
+       <double>163.3476076752337</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="188"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-113.2908994701042</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-119.49510479938516</double> 
+      </void> 
+      <void property="y0"> 
+       <double>169.55181300451463</double> 
+      </void> 
+      <void property="y1"> 
+       <double>163.3476076752337</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="189"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>184.77590650225739</double> 
+      </void> 
+      <void property="x1"> 
+       <double>181.43806377076058</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-76.53668647301797</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-84.59495166446595</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="190"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>169.55181300451468</double> 
+      </void> 
+      <void property="x1"> 
+       <double>181.43806377076058</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-113.29089947010421</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-84.59495166446595</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="191"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>184.77590650225736</double> 
+      </void> 
+      <void property="x1"> 
+       <double>158.39468457479117</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-76.53668647301797</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-65.60922655868697</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="192"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.83058078349617</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-39.78247347593163</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-20.65318663005007</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="193"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>77.22720540723638</double> 
+      </void> 
+      <void property="x1"> 
+       <double>158.39468457479128</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-31.988555863850085</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-65.60922655868701</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="194"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>63.445975428995155</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.83058078349617</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-12.620189173293056</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-20.65318663005007</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="195"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>54.46629572007804</double> 
+      </void> 
+      <void property="x1"> 
+       <double>78.7633679975855</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="196"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>42.06779779151523</double> 
+      </void> 
+      <void property="x1"> 
+       <double>52.41317658426368</double> 
+      </void> 
+      <void property="y0"> 
+       <double>17.425052384414485</double> 
+      </void> 
+      <void property="y1"> 
+       <double>21.710248588257897</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="197"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>36.91551336578232</double> 
+      </void> 
+      <void property="x1"> 
+       <double>43.492060979675216</double> 
+      </void> 
+      <void property="y0"> 
+       <double>24.666157438839907</double> 
+      </void> 
+      <void property="y1"> 
+       <double>29.060466065702283</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="198"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-200.00000000000045</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-163.98089452157728</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>200.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="199"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-87.84028282028156</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-163.98089452157728</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>200.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="200"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>47.7133034334892</double> 
+      </void> 
+      <void property="x1"> 
+       <double>63.445975428973874</double> 
+      </void> 
+      <void property="y0"> 
+       <double>9.490766141459323</double> 
+      </void> 
+      <void property="y1"> 
+       <double>12.620189173288828</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="201"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>1.728940298660698E-14</double> 
+      </void> 
+      <void property="x1"> 
+       <double>11.09063744782509</double> 
+      </void> 
+      <void property="y0"> 
+       <double>7.869812990581302E-15</double> 
+      </void> 
+      <void property="y1"> 
+       <double>55.75639963430086</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="202"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>31.823107783864046</double> 
+      </void> 
+      <void property="x1"> 
+       <double>35.57962221777015</double> 
+      </void> 
+      <void property="y0"> 
+       <double>31.82310778386422</double> 
+      </void> 
+      <void property="y1"> 
+       <double>35.57962221777032</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="203"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>26.37740895763074</double> 
+      </void> 
+      <void property="x1"> 
+       <double>27.96535487030414</double> 
+      </void> 
+      <void property="y0"> 
+       <double>39.47658225017475</double> 
+      </void> 
+      <void property="y1"> 
+       <double>41.853111253882865</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="204"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-7.999326812367152E-14</double> 
+      </void> 
+      <void property="x1"> 
+       <double>20.040639060211745</double> 
+      </void> 
+      <void property="y0"> 
+       <double>9.95544437642466E-15</double> 
+      </void> 
+      <void property="y1"> 
+       <double>48.38238261778736</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="205"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>158.3946845747493</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-62.735999712771445</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-65.6092265586525</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="206"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>103.83058078347969</double> 
+      </void> 
+      <void property="x1"> 
+       <double>158.3946845747493</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-69.37737604224868</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-65.6092265586525</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="207"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>77.22720540722626</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.830580783497</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-31.98855586383589</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-20.65318663005075</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="208"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>63.445975428985406</double> 
+      </void> 
+      <void property="x1"> 
+       <double>78.76336799758548</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-12.62018917327934</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-5.329070518200751E-15</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="209"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>54.466295720107176</double> 
+      </void> 
+      <void property="x1"> 
+       <double>63.44597542902446</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-4.091127436822717E-11</double> 
+      </void> 
+      <void property="y1"> 
+       <double>12.620189173247205</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="210"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>42.06779779148918</double> 
+      </void> 
+      <void property="x1"> 
+       <double>43.49206097966216</double> 
+      </void> 
+      <void property="y0"> 
+       <double>17.425052384451092</double> 
+      </void> 
+      <void property="y1"> 
+       <double>29.060466065713044</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="211"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>36.91551336572782</double> 
+      </void> 
+      <void property="x1"> 
+       <double>35.57962221773951</double> 
+      </void> 
+      <void property="y0"> 
+       <double>24.66615743891648</double> 
+      </void> 
+      <void property="y1"> 
+       <double>35.57962221779552</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="212"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>31.82310778384152</double> 
+      </void> 
+      <void property="x1"> 
+       <double>27.96535487031817</double> 
+      </void> 
+      <void property="y0"> 
+       <double>31.823107783895843</double> 
+      </void> 
+      <void property="y1"> 
+       <double>41.85311125387134</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="213"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>31.823107783841525</double> 
+      </void> 
+      <void property="x1"> 
+       <double>20.04063906027666</double> 
+      </void> 
+      <void property="y0"> 
+       <double>31.823107783895836</double> 
+      </void> 
+      <void property="y1"> 
+       <double>48.38238261773387</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="214"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-169.55181300451468</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-152.8297381588513</double> 
+      </void> 
+      <void property="y0"> 
+       <double>113.29089947010421</double> 
+      </void> 
+      <void property="y1"> 
+       <double>130.01297431576762</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="215"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-141.4213562373095</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-152.8297381588513</double> 
+      </void> 
+      <void property="y0"> 
+       <double>141.42135623730945</double> 
+      </void> 
+      <void property="y1"> 
+       <double>130.01297431576762</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="216"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y0"> 
+       <double>199.99999999999955</double> 
+      </void> 
+      <void property="y1"> 
+       <double>150.1116395137506</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="217"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>152.3022684102599</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="218"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>199.99999999999997</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.83058078342708</double> 
+      </void> 
+      <void property="y0"> 
+       <double>39.78247347593164</double> 
+      </void> 
+      <void property="y1"> 
+       <double>20.653186630036334</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="219"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>78.76336799758549</double> 
+      </void> 
+      <void property="x1"> 
+       <double>152.3022684102599</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="220"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>63.44597542897392</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.83058078342708</double> 
+      </void> 
+      <void property="y0"> 
+       <double>12.620189173288837</double> 
+      </void> 
+      <void property="y1"> 
+       <double>20.653186630036334</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="221"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>43.492060979675195</double> 
+      </void> 
+      <void property="x1"> 
+       <double>59.30376795553178</double> 
+      </void> 
+      <void property="y0"> 
+       <double>29.06046606570227</double> 
+      </void> 
+      <void property="y1"> 
+       <double>39.62551089600922</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="222"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>35.57962221777014</double> 
+      </void> 
+      <void property="x1"> 
+       <double>45.50499668131254</double> 
+      </void> 
+      <void property="y0"> 
+       <double>35.57962221777031</double> 
+      </void> 
+      <void property="y1"> 
+       <double>45.504996681312704</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="223"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>27.965354870304154</double> 
+      </void> 
+      <void property="x1"> 
+       <double>33.751670000407785</double> 
+      </void> 
+      <void property="y0"> 
+       <double>41.853111253882886</double> 
+      </void> 
+      <void property="y1"> 
+       <double>50.51294382219447</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="224"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-2.5349507101091936E-14</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-14.103577672149362</double> 
+      </void> 
+      <void property="y0"> 
+       <double>4.067467294169705E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>70.9034730114608</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="225"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>52.41317658426368</double> 
+      </void> 
+      <void property="x1"> 
+       <double>77.22720540716635</double> 
+      </void> 
+      <void property="y0"> 
+       <double>21.710248588257897</double> 
+      </void> 
+      <void property="y1"> 
+       <double>31.98855586382108</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="226"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="y0"> 
+       <double>3.765876499532881E-15</double> 
+      </void> 
+      <void property="y1"> 
+       <double>64.8941129896557</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="227"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>11.09063744782509</double> 
+      </void> 
+      <void property="x1"> 
+       <double>11.899693808171026</double> 
+      </void> 
+      <void property="y0"> 
+       <double>55.75639963430086</double> 
+      </void> 
+      <void property="y1"> 
+       <double>59.8238006260236</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="228"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>20.040639060211745</double> 
+      </void> 
+      <void property="x1"> 
+       <double>22.84761669080749</double> 
+      </void> 
+      <void property="y0"> 
+       <double>48.38238261778736</double> 
+      </void> 
+      <void property="y1"> 
+       <double>55.15902608284949</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="229"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>152.3022684103201</double> 
+      </void> 
+      <void property="y0"> 
+       <double>20.32341353438096</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-2.5629276478866814E-11</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="230"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>103.830580783497</double> 
+      </void> 
+      <void property="x1"> 
+       <double>152.3022684103201</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-20.65318663005075</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-2.5629276478866814E-11</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="231"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>78.76336799758548</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.83058078346161</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-5.329070518200751E-15</double> 
+      </void> 
+      <void property="y1"> 
+       <double>20.6531866300216</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="232"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>63.44597542902446</double> 
+      </void> 
+      <void property="x1"> 
+       <double>77.2272054072561</double> 
+      </void> 
+      <void property="y0"> 
+       <double>12.620189173247205</double> 
+      </void> 
+      <void property="y1"> 
+       <double>31.988555863782885</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="233"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>43.49206097966216</double> 
+      </void> 
+      <void property="x1"> 
+       <double>45.504996681320605</double> 
+      </void> 
+      <void property="y0"> 
+       <double>29.060466065713044</double> 
+      </void> 
+      <void property="y1"> 
+       <double>45.50499668130925</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="234"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>35.57962221773951</double> 
+      </void> 
+      <void property="x1"> 
+       <double>33.751670000402434</double> 
+      </void> 
+      <void property="y0"> 
+       <double>35.57962221779552</double> 
+      </void> 
+      <void property="y1"> 
+       <double>50.51294382219669</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="235"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>27.96535487031817</double> 
+      </void> 
+      <void property="x1"> 
+       <double>22.847616690847328</double> 
+      </void> 
+      <void property="y0"> 
+       <double>41.85311125387134</double> 
+      </void> 
+      <void property="y1"> 
+       <double>55.159026082832526</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="236"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>20.04063906027666</double> 
+      </void> 
+      <void property="x1"> 
+       <double>11.899693808252561</double> 
+      </void> 
+      <void property="y0"> 
+       <double>48.38238261773387</double> 
+      </void> 
+      <void property="y1"> 
+       <double>59.82380062598884</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="237"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>20.040639060276654</double> 
+      </void> 
+      <void property="x1"> 
+       <double>8.187228672795754E-11</double> 
+      </void> 
+      <void property="y0"> 
+       <double>48.38238261773388</double> 
+      </void> 
+      <void property="y1"> 
+       <double>64.89411298962082</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="238"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-39.78247347593164</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="239"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-82.84271247461903</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-133.63572758385973</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="240"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>82.84271247461899</double> 
+      </void> 
+      <void property="x1"> 
+       <double>133.63572758385976</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-200.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="241"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>82.84271247461899</double> 
+      </void> 
+      <void property="x1"> 
+       <double>39.78247347593158</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-200.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="242"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x1"> 
+       <double>39.78247347593158</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-200.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="243"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-184.77590650225739</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-179.6328538463657</double> 
+      </void> 
+      <void property="y0"> 
+       <double>76.53668647301797</double> 
+      </void> 
+      <void property="y1"> 
+       <double>88.95311394687062</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="244"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-169.55181300451468</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-179.6328538463657</double> 
+      </void> 
+      <void property="y0"> 
+       <double>113.29089947010421</double> 
+      </void> 
+      <void property="y1"> 
+       <double>88.95311394687062</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="245"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>190.2123604695733</double> 
+      </void> 
+      <void property="y0"> 
+       <double>39.78247347593164</double> 
+      </void> 
+      <void property="y1"> 
+       <double>63.41192557390681</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="246"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>184.77590650225739</double> 
+      </void> 
+      <void property="x1"> 
+       <double>190.2123604695733</double> 
+      </void> 
+      <void property="y0"> 
+       <double>76.53668647301797</double> 
+      </void> 
+      <void property="y1"> 
+       <double>63.41192557390681</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="247"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>184.77590650225736</double> 
+      </void> 
+      <void property="x1"> 
+       <double>158.39468457471224</double> 
+      </void> 
+      <void property="y0"> 
+       <double>76.53668647301798</double> 
+      </void> 
+      <void property="y1"> 
+       <double>65.60922655865429</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="248"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>169.55181300451468</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.83058078344159</double> 
+      </void> 
+      <void property="y0"> 
+       <double>113.29089947010421</double> 
+      </void> 
+      <void property="y1"> 
+       <double>69.3773760422496</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="249"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y0"> 
+       <double>150.1116395137506</double> 
+      </void> 
+      <void property="y1"> 
+       <double>90.35965132086858</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="250"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>77.22720540716637</double> 
+      </void> 
+      <void property="x1"> 
+       <double>158.39468457471227</double> 
+      </void> 
+      <void property="y0"> 
+       <double>31.98855586382108</double> 
+      </void> 
+      <void property="y1"> 
+       <double>65.6092265586543</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="251"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>141.42135623730948</double> 
+      </void> 
+      <void property="x1"> 
+       <double>71.60298568983123</double> 
+      </void> 
+      <void property="y0"> 
+       <double>141.42135623730954</double> 
+      </void> 
+      <void property="y1"> 
+       <double>71.60298568983137</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="252"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>45.50499668131254</double> 
+      </void> 
+      <void property="x1"> 
+       <double>71.60298568983123</double> 
+      </void> 
+      <void property="y0"> 
+       <double>45.504996681312704</double> 
+      </void> 
+      <void property="y1"> 
+       <double>71.60298568983137</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="253"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>33.75167000040776</double> 
+      </void> 
+      <void property="x1"> 
+       <double>48.89157694173092</double> 
+      </void> 
+      <void property="y0"> 
+       <double>50.51294382219446</double> 
+      </void> 
+      <void property="y1"> 
+       <double>73.17141579679787</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="254"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>22.847616690807495</double> 
+      </void> 
+      <void property="x1"> 
+       <double>30.825380467527193</double> 
+      </void> 
+      <void property="y0"> 
+       <double>55.15902608284949</double> 
+      </void> 
+      <void property="y1"> 
+       <double>74.41905159001499</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="255"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>11.899693808171023</double> 
+      </void> 
+      <void property="x1"> 
+       <double>15.019983954788405</double> 
+      </void> 
+      <void property="y0"> 
+       <double>59.82380062602358</double> 
+      </void> 
+      <void property="y1"> 
+       <double>75.5105585070043</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="256"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>2.1402809832029732E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-53.621943909008856</double> 
+      </void> 
+      <void property="y0"> 
+       <double>1.8367395804342664E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>80.25091025954846</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="257"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>59.30376795553178</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.83058078344158</double> 
+      </void> 
+      <void property="y0"> 
+       <double>39.62551089600922</double> 
+      </void> 
+      <void property="y1"> 
+       <double>69.37737604224958</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="258"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-14.103577672149362</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-15.43838184028676</double> 
+      </void> 
+      <void property="y0"> 
+       <double>70.9034730114608</double> 
+      </void> 
+      <void property="y1"> 
+       <double>77.61398672019214</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="259"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>4.670403504996166E-14</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-32.640846346046374</double> 
+      </void> 
+      <void property="y0"> 
+       <double>8.835714999895982E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>78.80197393596154</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="260"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="y0"> 
+       <double>64.8941129896557</double> 
+      </void> 
+      <void property="y1"> 
+       <double>76.54782551682001</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="261"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>158.39468457474848</double> 
+      </void> 
+      <void property="y0"> 
+       <double>99.88836048624944</double> 
+      </void> 
+      <void property="y1"> 
+       <double>65.6092265586518</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="262"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>103.83058078346161</double> 
+      </void> 
+      <void property="x1"> 
+       <double>158.39468457474848</double> 
+      </void> 
+      <void property="y0"> 
+       <double>20.6531866300216</double> 
+      </void> 
+      <void property="y1"> 
+       <double>65.6092265586518</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="263"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>77.2272054072561</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.83058078355324</double> 
+      </void> 
+      <void property="y0"> 
+       <double>31.988555863782885</double> 
+      </void> 
+      <void property="y1"> 
+       <double>69.37737604224188</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="264"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>45.504996681320605</double> 
+      </void> 
+      <void property="x1"> 
+       <double>48.89157694173826</double> 
+      </void> 
+      <void property="y0"> 
+       <double>45.50499668130925</double> 
+      </void> 
+      <void property="y1"> 
+       <double>73.17141579679736</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="265"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>33.751670000402434</double> 
+      </void> 
+      <void property="x1"> 
+       <double>30.825380467522894</double> 
+      </void> 
+      <void property="y0"> 
+       <double>50.51294382219669</double> 
+      </void> 
+      <void property="y1"> 
+       <double>74.41905159001527</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="266"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>22.847616690847328</double> 
+      </void> 
+      <void property="x1"> 
+       <double>15.019983954824378</double> 
+      </void> 
+      <void property="y0"> 
+       <double>55.159026082832526</double> 
+      </void> 
+      <void property="y1"> 
+       <double>75.5105585070018</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="267"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>11.899693808252561</double> 
+      </void> 
+      <void property="x1"> 
+       <double>6.582467904081568E-11</double> 
+      </void> 
+      <void property="y0"> 
+       <double>59.82380062598884</double> 
+      </void> 
+      <void property="y1"> 
+       <double>76.54782551681546</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="268"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>8.187228672795754E-11</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-15.43838184023591</double> 
+      </void> 
+      <void property="y0"> 
+       <double>64.89411298962082</double> 
+      </void> 
+      <void property="y1"> 
+       <double>77.61398672018863</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="269"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>8.187228672795754E-11</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-32.640846346019146</double> 
+      </void> 
+      <void property="y0"> 
+       <double>64.89411298962082</double> 
+      </void> 
+      <void property="y1"> 
+       <double>78.80197393595967</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="270"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>141.4213562373095</double> 
+      </void> 
+      <void property="x1"> 
+       <double>120.78278691484685</double> 
+      </void> 
+      <void property="y0"> 
+       <double>141.42135623730945</double> 
+      </void> 
+      <void property="y1"> 
+       <double>162.059925559772</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="271"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>113.2908994701042</double> 
+      </void> 
+      <void property="x1"> 
+       <double>120.78278691484685</double> 
+      </void> 
+      <void property="y0"> 
+       <double>169.55181300451463</double> 
+      </void> 
+      <void property="y1"> 
+       <double>162.059925559772</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="272"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>35.91162234617513</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="273"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-193.46320921513077</double> 
+      </void> 
+      <void property="y0"> 
+       <double>39.78247347593163</double> 
+      </void> 
+      <void property="y1"> 
+       <double>38.482224945847754</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="274"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>188.81284674080044</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>188.81284674080044</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="275"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>141.42135623730945</double> 
+      </void> 
+      <void property="x1"> 
+       <double>188.81284674080044</double> 
+      </void> 
+      <void property="y0"> 
+       <double>141.4213562373095</double> 
+      </void> 
+      <void property="y1"> 
+       <double>188.81284674080044</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="276"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>76.53668647301795</double> 
+      </void> 
+      <void property="x1"> 
+       <double>56.686821264764525</double> 
+      </void> 
+      <void property="y0"> 
+       <double>184.77590650225739</double> 
+      </void> 
+      <void property="y1"> 
+       <double>136.85409270521419</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="277"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>39.78247347593157</double> 
+      </void> 
+      <void property="x1"> 
+       <double>24.721566853201455</double> 
+      </void> 
+      <void property="y0"> 
+       <double>199.99999999999994</double> 
+      </void> 
+      <void property="y1"> 
+       <double>124.28370934832904</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="278"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>114.56191678799222</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="279"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-39.78247347593157</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-21.13458062815631</double> 
+      </void> 
+      <void property="y0"> 
+       <double>199.99999999999994</double> 
+      </void> 
+      <void property="y1"> 
+       <double>106.25071184144815</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="280"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-2.8912222364966906E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-107.93166285261648</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-3.631345654090966E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>72.11763147322613</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="281"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>113.2908994701042</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.83058078344307</double> 
+      </void> 
+      <void property="y0"> 
+       <double>169.55181300451463</double> 
+      </void> 
+      <void property="y1"> 
+       <double>155.39344554140558</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="282"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>48.89157694173091</double> 
+      </void> 
+      <void property="x1"> 
+       <double>103.83058078344307</double> 
+      </void> 
+      <void property="y0"> 
+       <double>73.17141579679787</double> 
+      </void> 
+      <void property="y1"> 
+       <double>155.39344554140558</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="283"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>30.82538046752719</double> 
+      </void> 
+      <void property="x1"> 
+       <double>56.686821264764525</double> 
+      </void> 
+      <void property="y0"> 
+       <double>74.41905159001497</double> 
+      </void> 
+      <void property="y1"> 
+       <double>136.85409270521416</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="284"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>15.019983954788403</double> 
+      </void> 
+      <void property="x1"> 
+       <double>24.721566853201452</double> 
+      </void> 
+      <void property="y0"> 
+       <double>75.5105585070043</double> 
+      </void> 
+      <void property="y1"> 
+       <double>124.28370934832903</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="285"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="y0"> 
+       <double>76.54782551682001</double> 
+      </void> 
+      <void property="y1"> 
+       <double>114.56191678799225</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="286"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-15.438381840286759</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-21.13458062815631</double> 
+      </void> 
+      <void property="y0"> 
+       <double>77.61398672019214</double> 
+      </void> 
+      <void property="y1"> 
+       <double>106.25071184144815</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="287"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-1.6157741811186442E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-82.22630233890754</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-4.2173433713347825E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>82.22630233890742</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="288"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-53.621943909008856</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-60.619349797391045</double> 
+      </void> 
+      <void property="y0"> 
+       <double>80.25091025954846</double> 
+      </void> 
+      <void property="y1"> 
+       <double>90.72326823581066</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="289"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-32.64084634604638</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-40.80617759324713</double> 
+      </void> 
+      <void property="y0"> 
+       <double>78.80197393596156</double> 
+      </void> 
+      <void property="y1"> 
+       <double>98.5148273742224</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="290"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>196.7728742605541</double> 
+      </void> 
+      <void property="x1"> 
+       <double>188.8128467409862</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>188.81284674087348</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="291"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>103.83058078355324</double> 
+      </void> 
+      <void property="x1"> 
+       <double>188.8128467409862</double> 
+      </void> 
+      <void property="y0"> 
+       <double>69.37737604224188</double> 
+      </void> 
+      <void property="y1"> 
+       <double>188.81284674087348</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="292"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>64.4163609019015</double> 
+      </void> 
+      <void property="x1"> 
+       <double>56.68682126476927</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>136.85409270521603</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="293"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>48.89157694173826</double> 
+      </void> 
+      <void property="x1"> 
+       <double>56.68682126476927</double> 
+      </void> 
+      <void property="y0"> 
+       <double>73.17141579679736</double> 
+      </void> 
+      <void property="y1"> 
+       <double>136.85409270521603</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="294"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>15.45331662382523</double> 
+      </void> 
+      <void property="x1"> 
+       <double>24.721566853196364</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>124.28370934832702</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="295"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>30.825380467522894</double> 
+      </void> 
+      <void property="x1"> 
+       <double>24.721566853196364</double> 
+      </void> 
+      <void property="y0"> 
+       <double>74.41905159001527</double> 
+      </void> 
+      <void property="y1"> 
+       <double>124.28370934832702</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="296"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-32.861306122504175</double> 
+      </void> 
+      <void property="x1"> 
+       <double>2.8547830766001425E-11</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>114.56191678800346</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="297"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>15.019983954824378</double> 
+      </void> 
+      <void property="x1"> 
+       <double>2.8547830766001425E-11</double> 
+      </void> 
+      <void property="y0"> 
+       <double>75.5105585070018</double> 
+      </void> 
+      <void property="y1"> 
+       <double>114.56191678800346</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="298"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>6.582467904081568E-11</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-21.134580628106633</double> 
+      </void> 
+      <void property="y0"> 
+       <double>76.54782551681546</double> 
+      </void> 
+      <void property="y1"> 
+       <double>106.25071184146766</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="299"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-15.43838184023591</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-40.80617759321909</double> 
+      </void> 
+      <void property="y0"> 
+       <double>77.61398672018863</double> 
+      </void> 
+      <void property="y1"> 
+       <double>98.5148273742334</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="300"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-32.640846346019146</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-60.61934979738149</double> 
+      </void> 
+      <void property="y0"> 
+       <double>78.80197393595967</double> 
+      </void> 
+      <void property="y1"> 
+       <double>90.72326823581442</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="301"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-32.64084634601916</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-82.22630233892345</double> 
+      </void> 
+      <void property="y0"> 
+       <double>78.80197393595967</double> 
+      </void> 
+      <void property="y1"> 
+       <double>82.22630233890122</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="302"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-193.46320921511153</double> 
+      </void> 
+      <void property="y0"> 
+       <double>35.911622346175136</double> 
+      </void> 
+      <void property="y1"> 
+       <double>38.48222494585533</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="303"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-82.84271247461903</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-50.8057248700934</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="304"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-39.78247347593164</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-50.8057248700934</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="305"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-184.77590650225739</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-197.43613469148488</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-76.53668647301797</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-45.9721918758467</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="306"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-197.43613469148488</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-39.78247347593164</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-45.9721918758467</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="307"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-76.53668647301794</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-74.61822279784349</double> 
+      </void> 
+      <void property="y0"> 
+       <double>184.77590650225739</double> 
+      </void> 
+      <void property="y1"> 
+       <double>185.57056017543476</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="308"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-39.78247347593157</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-74.61822279784349</double> 
+      </void> 
+      <void property="y0"> 
+       <double>199.99999999999994</double> 
+      </void> 
+      <void property="y1"> 
+       <double>185.57056017543476</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="309"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-173.05096797240395</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="310"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-124.99999999999999</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-173.05096797240392</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="311"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-193.46320921510556</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-39.78247347593163</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-38.48222494584275</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="312"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-156.53500927786683</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-193.46320921510554</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-31.13674927325725</double> 
+      </void> 
+      <void property="y1"> 
+       <double>-38.482224945842745</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="313"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-76.53668647301795</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-75.88029461288964</double> 
+      </void> 
+      <void property="y0"> 
+       <double>184.77590650225736</double> 
+      </void> 
+      <void property="y1"> 
+       <double>183.19123637130429</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="314"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-113.2908994701042</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-96.46908003620486</double> 
+      </void> 
+      <void property="y0"> 
+       <double>169.5518130045146</double> 
+      </void> 
+      <void property="y1"> 
+       <double>144.37618110122258</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="315"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-141.42135623730948</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-113.07320886975292</double> 
+      </void> 
+      <void property="y0"> 
+       <double>141.42135623730942</double> 
+      </void> 
+      <void property="y1"> 
+       <double>113.07320886975283</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="316"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-169.55181300451468</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-127.76720567402164</double> 
+      </void> 
+      <void property="y0"> 
+       <double>113.2908994701042</double> 
+      </void> 
+      <void property="y1"> 
+       <double>85.37131745802256</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="317"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-1.8094048552732703E-13</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-141.87848622728723</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-1.8498401560647536E-14</double> 
+      </void> 
+      <void property="y1"> 
+       <double>58.767993204306734</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="318"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-184.77590650225736</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-141.87848622728723</double> 
+      </void> 
+      <void property="y0"> 
+       <double>76.53668647301797</double> 
+      </void> 
+      <void property="y1"> 
+       <double>58.76799320430673</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="319"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-124.99999999999999</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-156.53500927787115</double> 
+      </void> 
+      <void property="y0"> 
+       <double>24.864045922457276</double> 
+      </void> 
+      <void property="y1"> 
+       <double>31.136749273258097</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="320"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-193.46320921513077</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-156.53500927787115</double> 
+      </void> 
+      <void property="y0"> 
+       <double>38.48222494584775</double> 
+      </void> 
+      <void property="y1"> 
+       <double>31.136749273258097</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="321"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-141.87848622727074</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-173.05096797240247</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-58.76799320432579</double> 
+      </void> 
+      <void property="y1"> 
+       <double>2.7817748105007922E-12</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="322"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-40.80617759324713</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-75.88029461288963</double> 
+      </void> 
+      <void property="y0"> 
+       <double>98.51482737422242</double> 
+      </void> 
+      <void property="y1"> 
+       <double>183.19123637130429</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="323"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-60.619349797391045</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-96.46908003620486</double> 
+      </void> 
+      <void property="y0"> 
+       <double>90.72326823581066</double> 
+      </void> 
+      <void property="y1"> 
+       <double>144.37618110122258</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="324"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-107.93166285261648</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-127.76720567402164</double> 
+      </void> 
+      <void property="y0"> 
+       <double>72.11763147322613</double> 
+      </void> 
+      <void property="y1"> 
+       <double>85.37131745802257</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="325"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="x0"> 
+       <double>-82.22630233890759</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-113.07320886975293</double> 
+      </void> 
+      <void property="y0"> 
+       <double>82.22630233890746</double> 
+      </void> 
+      <void property="y1"> 
+       <double>113.07320886975285</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="326"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-87.84028282028157</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-75.88029461285774</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>183.19123637136443</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="327"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-21.134580628106633</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-75.88029461285774</double> 
+      </void> 
+      <void property="y0"> 
+       <double>106.25071184146766</double> 
+      </void> 
+      <void property="y1"> 
+       <double>183.19123637136443</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="328"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-163.98089452157728</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-96.46908003619163</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>144.37618110124754</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="329"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-40.80617759321909</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-96.46908003619163</double> 
+      </void> 
+      <void property="y0"> 
+       <double>98.5148273742334</double> 
+      </void> 
+      <void property="y1"> 
+       <double>144.37618110124754</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="330"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-113.07320886974588</double> 
+      </void> 
+      <void property="y0"> 
+       <double>150.11163951375056</double> 
+      </void> 
+      <void property="y1"> 
+       <double>113.07320886976615</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="331"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-60.61934979738149</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-113.07320886974588</double> 
+      </void> 
+      <void property="y0"> 
+       <double>90.72326823581442</double> 
+      </void> 
+      <void property="y1"> 
+       <double>113.07320886976615</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="332"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-127.76720567402386</double> 
+      </void> 
+      <void property="y0"> 
+       <double>90.35965132086858</double> 
+      </void> 
+      <void property="y1"> 
+       <double>85.37131745801832</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="333"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-82.22630233892345</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-127.76720567402386</double> 
+      </void> 
+      <void property="y0"> 
+       <double>82.22630233890122</double> 
+      </void> 
+      <void property="y1"> 
+       <double>85.37131745801832</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="334"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-193.46320921511153</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-141.8784862272816</double> 
+      </void> 
+      <void property="y0"> 
+       <double>38.48222494585533</double> 
+      </void> 
+      <void property="y1"> 
+       <double>58.76799320431729</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="335"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-82.22630233892345</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-141.8784862272816</double> 
+      </void> 
+      <void property="y0"> 
+       <double>82.22630233890122</double> 
+      </void> 
+      <void property="y1"> 
+       <double>58.76799320431729</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="336"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-173.05096797240247</double> 
+      </void> 
+      <void property="y0"> 
+       <double>-50.8057248700934</double> 
+      </void> 
+      <void property="y1"> 
+       <double>2.764685269631316E-12</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="337"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>2</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-173.05096797240247</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-141.8784862272816</double> 
+      </void> 
+      <void property="y0"> 
+       <double>2.764685269631316E-12</double> 
+      </void> 
+      <void property="y1"> 
+       <double>58.767993204317285</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="338"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y0"> 
+       <double>20.323413534380965</double> 
+      </void> 
+      <void property="y1"> 
+       <double>99.88836048624945</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="339"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.00000000000045</double> 
+      </void> 
+      <void property="y1"> 
+       <double>99.88836048624945</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="340"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-32.861306122504175</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-87.84028282028156</double> 
+      </void> 
+      <void property="y0"> 
+       <double>200.0</double> 
+      </void> 
+      <void property="y1"> 
+       <double>200.0</double> 
+      </void> 
+     </object> 
+    </void> 
+    <void index="341"> 
+     <object class="oripa.OriLineProxy"> 
+      <void property="type"> 
+       <int>1</int> 
+      </void> 
+      <void property="x0"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="x1"> 
+       <double>-200.0</double> 
+      </void> 
+      <void property="y0"> 
+       <double>90.35965132086858</double> 
+      </void> 
+      <void property="y1"> 
+       <double>35.91162234617513</double> 
+      </void> 
+     </object> 
+    </void> 
+   </array> 
+  </void> 
+  <void property="mainVersion"> 
+   <int>1</int> 
+  </void> 
+  <void property="paperSize"> 
+   <double>400.0</double> 
+  </void> 
+  <void property="subVersion"> 
+   <int>1</int> 
+  </void> 
+ </object> 
+</java> 
