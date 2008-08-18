@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <java version="1.5.0_13" class="java.beans.XMLDecoder"> 
  <object class="oripa.DataSet"> 
+  <void property="editorName"> 
+   <string></string> 
+  </void> 
   <void property="lines"> 
    <array class="oripa.OriLineProxy" length="345"> 
     <void index="0"> 
@@ -6089,11 +6092,24 @@
   <void property="mainVersion"> 
    <int>1</int> 
   </void> 
+  <void property="memo"> 
+   <string>First discovered by Rizoma.
+8-17-2008</string> 
+  </void> 
+  <void property="originalAuthorName"> 
+   <string>Ray Schamp</string> 
+  </void> 
   <void property="paperSize"> 
    <double>400.0</double> 
   </void> 
+  <void property="reference"> 
+   <string></string> 
+  </void> 
   <void property="subVersion"> 
    <int>1</int> 
+  </void> 
+  <void property="title"> 
+   <string>Reversing Cylinder</string> 
   </void> 
  </object> 
 </java> 
