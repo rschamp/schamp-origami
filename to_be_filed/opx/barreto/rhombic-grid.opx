@@ -2,7 +2,7 @@
 <java version="1.5.0_22" class="java.beans.XMLDecoder"> 
  <object class="oripa.DataSet"> 
   <void property="lines"> 
-   <array class="oripa.OriLineProxy" length="157"> 
+   <array class="oripa.OriLineProxy" length="156"> 
     <void index="0"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
@@ -2094,7 +2094,7 @@
     <void index="111"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
-       <int>3</int> 
+       <int>1</int> 
       </void> 
       <void property="x0"> 
        <double>150.00000000000014</double> 
@@ -2550,25 +2550,6 @@
     <void index="135"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
-       <int>1</int> 
-      </void> 
-      <void property="x0"> 
-       <double>150.0</double> 
-      </void> 
-      <void property="x1"> 
-       <double>200.0</double> 
-      </void> 
-      <void property="y0"> 
-       <double>173.2050807568877</double> 
-      </void> 
-      <void property="y1"> 
-       <double>173.2050807568877</double> 
-      </void> 
-     </object> 
-    </void> 
-    <void index="136"> 
-     <object class="oripa.OriLineProxy"> 
-      <void property="type"> 
        <int>3</int> 
       </void> 
       <void property="x0"> 
@@ -2585,7 +2566,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="137"> 
+    <void index="136"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>3</int> 
@@ -2604,7 +2585,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="138"> 
+    <void index="137"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>3</int> 
@@ -2623,7 +2604,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="139"> 
+    <void index="138"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>3</int> 
@@ -2642,7 +2623,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="140"> 
+    <void index="139"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>3</int> 
@@ -2661,7 +2642,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="141"> 
+    <void index="140"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>3</int> 
@@ -2680,7 +2661,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="142"> 
+    <void index="141"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>3</int> 
@@ -2699,7 +2680,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="143"> 
+    <void index="142"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>3</int> 
@@ -2718,7 +2699,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="144"> 
+    <void index="143"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>3</int> 
@@ -2737,7 +2718,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="145"> 
+    <void index="144"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>3</int> 
@@ -2756,7 +2737,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="146"> 
+    <void index="145"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>1</int> 
@@ -2775,7 +2756,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="147"> 
+    <void index="146"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>3</int> 
@@ -2794,7 +2775,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="148"> 
+    <void index="147"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>1</int> 
@@ -2813,7 +2794,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="149"> 
+    <void index="148"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>1</int> 
@@ -2832,7 +2813,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="150"> 
+    <void index="149"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>1</int> 
@@ -2851,7 +2832,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="151"> 
+    <void index="150"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>1</int> 
@@ -2870,7 +2851,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="152"> 
+    <void index="151"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>1</int> 
@@ -2889,7 +2870,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="153"> 
+    <void index="152"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>1</int> 
@@ -2908,7 +2889,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="154"> 
+    <void index="153"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>1</int> 
@@ -2927,7 +2908,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="155"> 
+    <void index="154"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>1</int> 
@@ -2946,7 +2927,7 @@
       </void> 
      </object> 
     </void> 
-    <void index="156"> 
+    <void index="155"> 
      <object class="oripa.OriLineProxy"> 
       <void property="type"> 
        <int>1</int> 
